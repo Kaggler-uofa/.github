@@ -49,20 +49,21 @@ Your efforts could ​​​​improve our understanding of the effect of vascul
 ### Development Environment
 - Main :
     - python3, numpy, pandas, skimage, torch
-    <details>
-    <summary>All env</summary>
-        ```
-        numpy==1.26.3
-        pandas==2.1.4
-        scikit-image==0.22.0
-        tqdm==4.62.2
-        albumentations==1.3.1
-        matplotlib==3.8.2
-        seaborn==0.11.2
-        torch==2.1.2
-        torchvision==0.16.2
-        torchinfo==1.5.2
-        ```
+    - <details>
+        <summary>All env</summary>
+        
+            ```txt
+            numpy==1.26.3
+            pandas==2.1.4
+            scikit-image==0.22.0
+            tqdm==4.62.2
+            albumentations==1.3.1
+            matplotlib==3.8.2
+            seaborn==0.11.2
+            torch==2.1.2
+            torchvision==0.16.2
+            torchinfo==1.5.2
+            ```
     </details>
 
 
