@@ -28,7 +28,7 @@ SenNet is joined by the Human Organ Atlas (HOA) for this competition. HOA is a d
 Your efforts could ​​​​improve our understanding of the effect of vasculature on different cells in the human body. With better data, researchers could simulate the flow of blood, oxygen, or even drugs through the vessel network. They could also use the available organ images to augment their understanding of how blood vasculature changes as sex, age, and BMI change. Ultimately, you could help pave the way towards a more complete Vascular Common Coordinate Framework (VCCF) and Human Reference Atlas (HRA), which could identify how the relationships between cells affect our health.
 
 ---
-# Performance
+# Our Performance
 
 ### ML Flowchart
 <img src="https://github.com/Kaggler-uofa/.github/blob/84863602bcdcacc1cf8da84abed73dd8132cf983/profile/image/ML_Flowchart.drawio.svg" width=40% height=40% title="flowchart">
@@ -45,13 +45,32 @@ Your efforts could ​​​​improve our understanding of the effect of vascul
 
 6. **Evaluation:** Finally, the model is evaluated to determine its performance in terms of validation loss, ensuring that it generalizes well to new, unseen data.
 
+---
+### Development Environment
+- Main :
+    - python3, numpy, pandas, skimage, torch
+    <details>
+    <summary>All env</summary>
+        ```
+        numpy==1.26.3
+        pandas==2.1.4
+        scikit-image==0.22.0
+        tqdm==4.62.2
+        albumentations==1.3.1
+        matplotlib==3.8.2
+        seaborn==0.11.2
+        torch==2.1.2
+        torchvision==0.16.2
+        torchinfo==1.5.2
+        ```
+    </details>
 
 
 
 
 <img src="https://github.com/Kaggler-uofa/.github/blob/main/profile/image/kidney_1_dense_image_0700.jpeg" width=20% height=20% title="kidney_700">
 
-
+---
 ---
 ### Organizers & Sponsors
 ![organizer](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1536542%2F8fdef9f263e948c0550ee04f8f41fb14%2Fk4-all-sponsors.png?generation=1699368938207653&alt=media)
