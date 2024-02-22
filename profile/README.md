@@ -29,6 +29,9 @@ Your efforts could ​​​​improve our understanding of the effect of vascul
 
 ---
 # Performance
+
+### ML Flowchart
+<img src="https://github.com/Kaggler-uofa/.github/blob/84863602bcdcacc1cf8da84abed73dd8132cf983/profile/image/ML_Flowchart.drawio.svg" width=40% height=40% title="flowchart">
 <img src="https://github.com/Kaggler-uofa/.github/blob/main/profile/image/kidney_1_dense_image_0700.jpeg" width=20% height=20% title="kidney_700">
 
 
