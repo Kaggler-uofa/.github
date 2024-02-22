@@ -32,6 +32,23 @@ Your efforts could ​​​​improve our understanding of the effect of vascul
 
 ### ML Flowchart
 <img src="https://github.com/Kaggler-uofa/.github/blob/84863602bcdcacc1cf8da84abed73dd8132cf983/profile/image/ML_Flowchart.drawio.svg" width=40% height=40% title="flowchart">
+
+1. **Data Preparation:** You have gathered a dataset consisting of images and their corresponding masks, which delineate the vascular structures. These images and masks are obtained from specified paths.
+
+2. **Data Augmentation:** To increase the diversity of your dataset and improve the robustness of your model, you have applied augmentation techniques to both the images and their corresponding masks.
+
+3. **Model Training:** An artificial intelligence model is then trained using the augmented images. The model outputs predicted masks, which are estimates of the actual vascular structures.
+
+4. **Loss Calculation:** A loss function is used to calculate the discrepancy between the predicted masks and the actual masks, providing a loss value that quantifies the model's performance.
+
+5. **Optimization:** With the use of a train loader to feed data, an optimizer to adjust the model parameters, and the loss function to guide improvements, your model is trained and subsequently saved, along with the training loss information.
+
+6. **Evaluation:** Finally, the model is evaluated to determine its performance in terms of validation loss, ensuring that it generalizes well to new, unseen data.
+
+
+
+
+
 <img src="https://github.com/Kaggler-uofa/.github/blob/main/profile/image/kidney_1_dense_image_0700.jpeg" width=20% height=20% title="kidney_700">
 
 
