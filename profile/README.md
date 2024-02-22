@@ -29,7 +29,7 @@ Your efforts could ​​​​improve our understanding of the effect of vascul
 
 ---
 # Performance
-<img src="https://github.com/Kaggler-uofa/.github/blob/main/profile/image/0700.jpeg" width=20% height=20% title="kidney_700">
+<img src="https://github.com/Kaggler-uofa/.github/blob/main/profile/image/kidney_1_dense_image_0700.jpeg" width=20% height=20% title="kidney_700">
 
 
 ---
