@@ -1,6 +1,6 @@
 ## Kaggle Competition : SenNet + HOA - Hacking the Human Vasculature in 3D
 
-**Team members :** [Hyunji Cha](https://github.com/mochimuchi), [Minjae Jeong](https://github.com/JJalswo), Min Joh, [Jin You](https://github.com/jinyoo1021)
+**Team members :** [Hyunji Cha](https://github.com/mochimuchi), [Minjae Jeong](https://github.com/JJalswo), Min Joh, [Jin Yoo](https://github.com/jinyoo1021)
 
 
 > **Competition Information:**\
